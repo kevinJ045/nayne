@@ -1,0 +1,3 @@
+impsvg: <svg class="icon" width="28" height="28" viewBox="0 0 128 128">
+    <use xlink:href="../res/img/logo/logo.svg#g1208" >
+</svg>
